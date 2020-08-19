@@ -1,0 +1,45 @@
+body{
+	background: #B3B3B3;
+	font-size: 150%;
+	margin:2%; 
+}
+header{
+	background: #666666;
+	text-align: center;
+	padding:25px;
+
+}
+li{
+	list-style-type:circle;
+}
+h1{
+	text-align: center;
+	color: #FF66FF;
+
+}
+nav{
+    font-variant-caps: small-caps;
+    font-size: 150%;
+    font-family: Arial, "Times New Roman";
+
+}
+h2{
+	color: #666666;
+	background:#00B7ea;
+}
+section{
+	width: 48%;
+	display: inline-block;
+	float: left;
+	/*margin left:30%;*/
+	/*clear: both;*/
+}
+details{
+	font-style:italic;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	float: left;
+}

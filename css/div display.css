@@ -1,0 +1,21 @@
+span{
+	    height:50%;
+		width:75px;
+		background: #f0ff00;
+		/*display:Try block and inline;
+		/*float*/
+	}
+div{
+	height:100px;
+	width:45px;
+	background:#00ffff;
+	border: dotted 5px ;
+	border-width: 3px 5px;
+	/*display:;*/
+	/*float*/
+}	
+p{
+	background:#ff00ff;
+	width:200px;
+	height:100px;  
+}
